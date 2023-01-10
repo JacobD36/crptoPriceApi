@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/jacobd39/innomedicApi/model"
+	"github.com/waxxis/crptoPriceApi/model"
 )
 
 // GenerateToken genera un token para un usuario

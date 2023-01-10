@@ -3,8 +3,8 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/jacobd39/innomedicApi/authorization"
 	"github.com/labstack/echo"
+	"github.com/waxxis/crptoPriceApi/authorization"
 )
 
 // Log .

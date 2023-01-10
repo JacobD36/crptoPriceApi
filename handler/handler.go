@@ -1,6 +1,6 @@
 package handler
 
-import "github.com/jacobd39/innomedicApi/model"
+import "github.com/waxxis/crptoPriceApi/model"
 
 //Storage es una interfaz que define los métodos que se pueden usar en el handler
 type Storage interface {

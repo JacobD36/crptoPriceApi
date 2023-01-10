@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/jacobd39/innomedicApi/model"
+	"github.com/waxxis/crptoPriceApi/model"
 )
 
 // Memory es una estructura que guarda información en memoria

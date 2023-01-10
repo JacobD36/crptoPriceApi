@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/jacobd39/innomedicApi/middleware"
 	"github.com/labstack/echo"
+	"github.com/waxxis/crptoPriceApi/middleware"
 )
 
 // RoutePerson es la ruta para la persona

@@ -6,9 +6,9 @@ import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"github.com/jacobd39/innomedicApi/authorization"
-	"github.com/jacobd39/innomedicApi/model"
-	"github.com/jacobd39/innomedicApi/storage"
+	"github.com/waxxis/crptoPriceApi/authorization"
+	"github.com/waxxis/crptoPriceApi/model"
+	"github.com/waxxis/crptoPriceApi/storage"
 )
 
 func main() {

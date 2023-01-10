@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/jacobd39/innomedicApi/model"
 	"github.com/labstack/echo"
+	"github.com/waxxis/crptoPriceApi/model"
 )
 
 type person struct {

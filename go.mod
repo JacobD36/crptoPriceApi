@@ -1,4 +1,4 @@
-module github.com/jacobd39/innomedicApi
+module github.com/waxxis/crptoPriceApi
 
 go 1.19
 

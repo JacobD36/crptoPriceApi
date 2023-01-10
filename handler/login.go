@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"github.com/jacobd39/innomedicApi/authorization"
-	"github.com/jacobd39/innomedicApi/model"
 	"github.com/labstack/echo"
+	"github.com/waxxis/crptoPriceApi/authorization"
+	"github.com/waxxis/crptoPriceApi/model"
 )
 
 type login struct {
